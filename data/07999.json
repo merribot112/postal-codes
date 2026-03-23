@@ -1,0 +1,6 @@
+{
+  "postal_code": "07999",
+  "error": "Waiting for selector `[role=\"listbox\"]` failed: Waiting failed: 3000ms exceeded",
+  "scraped_at": "2026-03-23T16:06:10.802Z",
+  "success": false
+}

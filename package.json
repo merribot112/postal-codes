@@ -1,0 +1,12 @@
+{
+  "name": "posti-scraper",
+  "version": "1.0.0",
+  "description": "Posti postinumerohaku scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
