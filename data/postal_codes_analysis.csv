@@ -1,42 +1,42 @@
 postal_code,municipality,num_municipalities,total_addresses,location_type,location_confidence,validity_status,is_actual_location,error,scraped_successfully
-00001,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-00017,FENNIA,1,3.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
-00031,GE,1,49.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-00101,HELSINGFORS,1,2180.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-00141,HELSINGFORS,1,60.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-00381,HELSINGFORS,1,492.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-00521,HELSINGFORS,1,268.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-00781,"HELSINGFORS, HELSINKI",2,14.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
-00841,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-01391,VANDA,1,70.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-01531,VANDA,1,524.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-02471,"UPINNIEMI, OBBNÄS",2,9.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
-02611,ESBO,1,72.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-02941,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-04131,SIBBO,1,102.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-04401,JÄRVENPÄÄ,1,240.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-04431,JÄRVENPÄÄ,1,190.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-05401,JOKELA,1,20.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-06151,BORGÅ,1,126.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-06451,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-07171,PORNAINEN,1,8.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
-07565,KANTELE,1,237.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-07899,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-07901,LOVISA,1,146.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-07945,KUGGOM,1,662.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-07955,"TESJOKI, TESSJÖ",2,1533.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-07999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-09999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+1,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+17,FENNIA,1,3.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
+31,GE,1,49.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
+101,HELSINGFORS,1,2180.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+141,HELSINGFORS,1,60.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
+381,HELSINGFORS,1,492.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+521,HELSINGFORS,1,268.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+781,"HELSINGFORS, HELSINKI",2,14.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
+841,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+1391,VANDA,1,70.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
+1531,VANDA,1,524.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+2471,"UPINNIEMI, OBBNÄS",2,9.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
+2611,ESBO,1,72.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
+2941,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+4131,SIBBO,1,102.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+4401,JÄRVENPÄÄ,1,240.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+4431,JÄRVENPÄÄ,1,190.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+5401,JOKELA,1,20.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
+6151,BORGÅ,1,126.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+6451,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+7171,PORNAINEN,1,8.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
+7565,KANTELE,1,237.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+7899,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+7901,LOVISA,1,146.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+7945,KUGGOM,1,662.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+7955,"TESJOKI, TESSJÖ",2,1533.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
+7999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+9999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 10211,INGÅ,1,92.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 10601,EKENÄS,1,228.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 10611,"RASEBORG, RAASEPORI",2,18.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
 10901,HANGÖ,1,304.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 11111,RIIHIMÄKI,1,198.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-14999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-15861,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-15951,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+14999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+15861,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+15951,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 17801,KUHMOINEN,1,32.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-18007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+18007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 19651,JOUTSA,1,78.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 19701,SYSMÄ,1,50.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 20781,KAARINA,1,280.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
@@ -47,16 +47,16 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 21571,SAUVO,1,50.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 21601,PARGAS,1,288.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 21661,NAGU,1,56.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-21711,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+21711,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 21901,YLÄNE,1,60.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 23801,LAITILA,1,42.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-24003,,0,,INVALID,0.0,INVALID,False,,False
+24003,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 24101,SALO,1,484.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-25003,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+25003,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 25701,KIMITO,1,122.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 27501,KAUTTUA,1,8.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
 28401,ULVILA,1,118.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-32301,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+32301,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 33101,TAMPERE,1,1086.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 33211,TAMPERE,1,152.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 34801,VIRRAT,1,48.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
@@ -64,7 +64,7 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 35801,MÄNTTÄ,1,50.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 39195,KAIPIO,1,86.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 39965,KARVIANKYLÄ,1,144.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-40003,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+40003,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 40101,JYVÄSKYLÄ,1,724.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 41325,LAUKKAVIRTA,1,320.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 41661,TOIVAKKA,1,2.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
@@ -72,17 +72,17 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 42701,KEURUU,1,222.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 43501,KARSTULA,1,32.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 44101,ÄÄNEKOSKI,1,152.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-45007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+45007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 45101,KOUVOLA,1,548.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-45151,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+45151,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 45701,KUUSANKOSKI,1,198.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-48007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+48007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 52201,PUUMALA,1,12.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
 52301,RISTIINA,1,26.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 52551,HIRVENSALMI,1,62.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 52701,MÄNTYHARJU,1,206.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 54915,SAIMAANHARJU,1,625.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-57007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+57007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 58175,ENONKOSKI,1,710.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 58701,SULKAVA,1,86.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 62165,TIISTENJOKI,1,243.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
@@ -95,18 +95,18 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 63355,SEINÄJÄRVI,1,110.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 64101,KRISTINESTAD,1,200.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 64701,TEUVA,1,116.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-64999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+64999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 65101,VASA,1,666.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-66101,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+66101,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 66201,KORSNÄS,1,16.0,SMALL_AREA/POST_BOX,0.6,VALID_WITH_ADDRESSES,False,,True
 66295,TÖJBY,1,295.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 66401,LAIHIA,1,58.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 66901,NYKARLEBY,1,86.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-66999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+66999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 68555,BOSUND,1,810.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 68601,JAKOBSTAD,1,266.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-68999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-70007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+68999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+70007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 70101,KUOPIO,1,628.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 70111,KUOPIO,1,66.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 71745,HAATALA,1,76.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
@@ -114,7 +114,7 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 72401,PIELAVESI,1,72.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 73301,NILSIÄ,1,20.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 74595,RUNNI,1,559.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-77999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+77999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 79101,LEPPÄVIRTA,1,76.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 79255,KURJALA,1,180.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 79265,PUPONMÄKI,1,113.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
@@ -136,27 +136,27 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 83835,RUVASLAHTI,1,255.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 83855,MARTONVAARA,1,189.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 85101,KALAJOKI,1,139.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-87007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-88301,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-88615,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-88999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-89201,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-89999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+87007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+88301,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+88615,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+88999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+89201,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+89999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 90501,OULU,1,64.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 90901,KIIMINKI,1,82.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 91501,MUHOS,1,162.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 91701,VAALA,1,69.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-92007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+92007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 92101,RAAHE,1,152.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 93187,ALA-SIURUA,1,156.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 93225,PÄRJÄNSUO,1,202.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 93277,IINATTIJÄRVI,1,196.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-93825,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-93899,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-93999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+93825,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+93899,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+93999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 95225,VIANTIE,1,236.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 95255,ALANIEMI,1,121.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-95295,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+95295,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 95315,TÖRMÄ,1,233.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 95325,PAAKKOLA,1,146.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 95355,KOIVU,1,346.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
@@ -166,8 +166,8 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 95635,KAULINRANTA,1,278.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 95645,TURTOLA,1,257.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 95675,MELTOSJÄRVI,1,171.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
-95999,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
-96007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+95999,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
+96007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 97335,RUUHIVAARA,1,65.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 97615,TENNIROVA,1,50.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 97625,VANTTAUSKOSKI,1,363.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
@@ -183,7 +183,7 @@ postal_code,municipality,num_municipalities,total_addresses,location_type,locati
 97815,PERNU,1,181.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 97895,MOURUJÄRVI,1,91.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
 97925,TOLVA,1,99.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
-98007,,0,,INVALID,0.0,INVALID,False,"Waiting for selector `[role=""listbox""]` failed: Waiting failed: 3000ms exceeded",False
+98007,,0,,NONEXISTENT,0.0,NONEXISTENT,False,Postal code does not exist in Posti database,False
 98995,HAUTAJÄRVI,1,217.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 99101,KITTILÄ,1,130.0,ACTUAL_LOCATION,0.95,VALID_WITH_ADDRESSES,True,,True
 99131,SIRKKA,1,48.0,SMALL_SETTLEMENT,0.8,VALID_WITH_ADDRESSES,True,,True
