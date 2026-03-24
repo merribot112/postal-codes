@@ -1,0 +1,17 @@
+{
+  "postal_code": "27501",
+  "addresses": [
+    "PB 2",
+    "PB 55",
+    "PB 92",
+    "PB 105",
+    "PL 2",
+    "PL 55",
+    "PL 92",
+    "PL 105"
+  ],
+  "count": 8,
+  "has_postboxes": true,
+  "scraped_at": "2026-03-24T07:38:12.562Z",
+  "success": true
+}

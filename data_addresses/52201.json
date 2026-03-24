@@ -1,0 +1,21 @@
+{
+  "postal_code": "52201",
+  "addresses": [
+    "PB 2",
+    "PB 13",
+    "PB 19",
+    "PB 20",
+    "PB 24",
+    "PB 26",
+    "PL 2",
+    "PL 13",
+    "PL 19",
+    "PL 20",
+    "PL 24",
+    "PL 26"
+  ],
+  "count": 12,
+  "has_postboxes": true,
+  "scraped_at": "2026-03-24T07:39:26.398Z",
+  "success": true
+}

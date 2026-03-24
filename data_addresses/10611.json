@@ -1,0 +1,27 @@
+{
+  "postal_code": "10611",
+  "addresses": [
+    "PL 18",
+    "PL 31",
+    "PL 58",
+    "PL 75",
+    "PL 111",
+    "PL 158",
+    "PL 1200",
+    "PL 1201",
+    "PL 1202",
+    "PB 18",
+    "PB 31",
+    "PB 58",
+    "PB 75",
+    "PB 111",
+    "PB 158",
+    "PB 1200",
+    "PB 1201",
+    "PB 1202"
+  ],
+  "count": 18,
+  "has_postboxes": true,
+  "scraped_at": "2026-03-24T07:36:59.590Z",
+  "success": true
+}

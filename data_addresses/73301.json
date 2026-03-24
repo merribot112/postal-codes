@@ -1,0 +1,29 @@
+{
+  "postal_code": "73301",
+  "addresses": [
+    "PB 4",
+    "PB 19",
+    "PB 20",
+    "PB 21",
+    "PB 25",
+    "PB 28",
+    "PB 29",
+    "PB 31",
+    "PB 33",
+    "PB 34",
+    "PL 4",
+    "PL 19",
+    "PL 20",
+    "PL 21",
+    "PL 25",
+    "PL 28",
+    "PL 29",
+    "PL 31",
+    "PL 33",
+    "PL 34"
+  ],
+  "count": 20,
+  "has_postboxes": true,
+  "scraped_at": "2026-03-24T07:41:29.167Z",
+  "success": true
+}
