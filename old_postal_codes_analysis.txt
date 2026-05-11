@@ -1,0 +1,66 @@
+DEPRECATED FINNISH POSTAL CODES ANALYSIS
+======================================================================
+
+
+Central Finland - Jyväskylä area:
+  Codes: 32301
+
+Central-Eastern Finland:
+  Codes: 57007
+
+Eastern Finland:
+  Codes: 68999
+
+Eastern Finland - Kuopio area:
+  Codes: 70007
+
+Eastern Finland - North Savonia:
+  Codes: 64999
+
+Northern Finland:
+  Codes: 77999
+
+Northern Finland - Lapland:
+  Codes: 87007, 88301, 88615, 88999, 89201, 89999, 92007, 93825, 93899, 93999, 95295, 95999, 96007, 98007
+
+Southern Finland - East Uusimaa:
+  Codes: 09999
+
+Southern Finland - Helsinki area:
+  Codes: 00001, 00841
+
+Southern Finland - Häme region:
+  Codes: 14999
+
+Southern Finland - Itä-Häme:
+  Codes: 18007
+
+Southern Finland - Kymenlaakso:
+  Codes: 15861, 15951
+
+Southern Finland - Loviisa area:
+  Codes: 07899, 07999
+
+Southern Finland - Southwest:
+  Codes: 24003, 25003
+
+Southern Finland - Southwest Uusimaa:
+  Codes: 06451
+
+Southern Finland - Southwest coast:
+  Codes: 21711
+
+Southern Finland - Uusimaa:
+  Codes: 02941
+
+Western Finland - Ostrobothnia:
+  Codes: 66101, 66999
+
+Western Finland - Satakunta:
+  Codes: 45007, 45151
+
+Western Finland - Tampere/Pori area:
+  Codes: 40003
+
+Western Finland - West coast:
+  Codes: 48007
